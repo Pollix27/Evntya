@@ -38,7 +38,7 @@ Pantalla de ejemplo:
 Contribuyentes:
 Brandon Daniel Reynoso Barrera
 Edgar Joel Hernandez Flores
-Miguel Angel
+Miguel Angel Martin Meza
 Ricardo 
 Cristian Jahir
 Eduardo
